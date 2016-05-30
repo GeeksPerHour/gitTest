@@ -1,5 +1,5 @@
 <?php 
 
-echo "learning the git commands";
+echo "learning the git commands for first time";
 
 ?>
